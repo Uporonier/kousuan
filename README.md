@@ -11,6 +11,6 @@
 补充：
 tesseract下载地址
 https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows
-所需环境：python 3.8   
 
+所需环境：python 3.8   
 pip install opencv-python numpy pytesseract mss pyautogui
