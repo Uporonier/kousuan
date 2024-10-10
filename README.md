@@ -8,3 +8,6 @@
 仅供学习，造成一切后果与本人无关！
 
 主要思想：OCR从屏幕上捕获一个指定区域的图像，获取两个数并比较大小，然后通过模拟鼠标操作在指定位置绘制符号~仅供参考~~~
+补充：
+tesseract下载地址
+https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows
