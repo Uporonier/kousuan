@@ -8,6 +8,6 @@ import time
 
 
 print("将鼠标移动到你想要的位置...")
-time.sleep(3)  # 给你5秒钟的时间来移动鼠标
+time.sleep(3)  # 给你3秒钟的时间来移动鼠标
 x, y = pyautogui.position()  # 获取鼠标当前的位置
 print(f"当前鼠标坐标: ({x}, {y})")
